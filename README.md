@@ -158,7 +158,8 @@ Essa divisão torna o projeto:
 - mais escalável;
 - mais fácil de manter.
 
----
+<img width="8192" height="3427" alt="daigramUML" src="https://github.com/user-attachments/assets/23fcf51a-0ac6-4c38-b7ec-4e5244f3d3e0" />
+
 
 #  Estrutura do Projeto
 
